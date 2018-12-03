@@ -1,0 +1,18 @@
+site:
+    status: true
+    off_reason: 站点维护中请稍后再访问
+    app:
+        status: true
+    h5:
+        status: true
+    reserved_nickname: 'root,admin'
+    client_email: admin@123.com
+    gold:
+        status: true
+    reward:
+        status: true
+        amounts: '100,500,1000'
+    anonymous:
+        status: false
+        rule: ''
+    user_invite_template: '我发现了一个全平台社交系统ThinkSNS+，快来加入吧：http://t.cn/RpFfbbi'
